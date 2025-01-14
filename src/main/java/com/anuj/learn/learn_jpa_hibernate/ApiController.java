@@ -8,6 +8,6 @@ public class ApiController {
 
     @GetMapping("/all")
     public String getAllNameList(){
-        return "Hello World..!!";
+        return "Hello World...";
     }
 }
